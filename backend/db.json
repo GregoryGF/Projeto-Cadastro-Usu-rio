@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Luana Juia dos Santos",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "João Henrique da Silva ",
+      "email": "jhs_123@emailescola.com",
+      "id": 3
+    }
+  ]
+}
