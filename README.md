@@ -8,7 +8,7 @@ Criar uma aplicação com um formulário onde o usuário possa realizar um cadas
 
 O backend desta aplicação é baseado no json server que vai  ler o arquivo db.json e  as dependências.
 O frontend contém quase toda a aplicação e as interações.   
-Na tela Inicial  tem uma mensagem e navegação entre as páginas.
+Na tela de Início  tem uma mensagem e como navegar entre as páginas.
 Na tela dos usuários mantém a navegação e o formulário de cadastro, abaixo ele busca as informações no arquivo db.json que contém os dados dos usuários e carrega na tela. E permite que exclua ou altere os cadastros.
 
 ### Dependências 
