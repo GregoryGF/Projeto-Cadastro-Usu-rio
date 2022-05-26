@@ -1,4 +1,10 @@
+[![author](https://img.shields.io/badge/author-gregoryfroehlich-red.svg)](https://www.linkedin.com/in/gregory-froehlich-0b799b219/)
 # Projeto Cadastro Usuário
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/97168221/170392630-9765c681-8b55-4413-bcea-8773af2db8b8.png" >
+</div>
 
 ### Objetivo 
 
@@ -10,6 +16,10 @@ O backend desta aplicação é baseado no json server que vai  ler o arquivo db.
 O frontend contém quase toda a aplicação e as interações.   
 Na tela de Início  tem uma mensagem e como navegar entre as páginas.
 Na tela dos usuários mantém a navegação e o formulário de cadastro, abaixo ele busca as informações no arquivo db.json que contém os dados dos usuários e carrega na tela. E permite que exclua ou altere os cadastros.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/97168221/170392645-514e1502-83cb-4e96-8405-fa503777386b.png" >
+</div>
 
 ### Dependências 
 
