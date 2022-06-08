@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-gregoryfroehlich-red.svg)](https://www.linkedin.com/in/gregory-froehlich-0b799b219/)
+[![author](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-froehlich-0b799b219/)
 # Projeto Cadastro Usuário
 
 
